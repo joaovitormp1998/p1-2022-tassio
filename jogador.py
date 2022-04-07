@@ -1,4 +1,4 @@
-from Pontuacao import Pontuacao
+from pontuacao import Pontuacao
 
 
 class Jogador(Pontuacao):
